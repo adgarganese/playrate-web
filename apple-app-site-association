@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["<YOUR_TEAM_ID>.com.playrate.app"],
+        "paths": [
+          "/highlights/*",
+          "/courts/*",
+          "/athletes/*",
+          "/runs/*",
+          "/password-reset*"
+        ]
+      }
+    ]
+  }
+}
